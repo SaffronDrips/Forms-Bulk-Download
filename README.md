@@ -1,4 +1,4 @@
-# Forms-Bulk-Download
+# Dropbox Forms-Bulk-Download (Formerly Known as HelloWorks)
 
 ### - This bash script downloads all your copmleted Dropbox Forms & CSV Reports for the past 6 Months
 ### - You can configure the start and end date of the 6 month window to get documents completed more than 6 months ago (Found on Line 117-118)
