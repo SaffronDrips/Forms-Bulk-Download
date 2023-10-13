@@ -17,14 +17,14 @@ ________________________________________________________________________________
 #### Steps:
 1. Download the files in this repository. You may need to unzip them.
 2. Open the credentials.txt file
-3. Copy and Paste your API_KEY and API_SECRET from your Dropbox Forms Web Console beside the "=" of each credential. It should look like the example below
-      FORMS_API_KEY=123fsadas12421312
-      FORMS_API_SECRET=3412312eqweqw342
+3. Copy and Paste your API_KEY and API_SECRET from your Dropbox Forms Web Console beside the "=" of each credential. It should look like the example below:  <br>
+      FORMS_API_KEY=123fsadas12421312  <br>
+      FORMS_API_SECRET=3412312eqweqw342  <br>
 4. If you would like your files to be downloaded to specific folder or a sync folder, move these files into the folder you wish to have all your completed forms downloaded in
 5. Run the script. One way to do this is to open a terminal instance in your current folder and executing this command "sh bulk-download.sh"
 6. Your completed forms and CSV reports will begin downloading now
 7. You can see a log of all the downloaded files in the terminal
 
-Here is a video guide that covers the set-up process as well:
+Here is a video guide that covers the set-up process as well: https://capture.dropbox.com/VKTEgysfDYgsU4Tn
 
 
