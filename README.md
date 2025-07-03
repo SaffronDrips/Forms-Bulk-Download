@@ -25,6 +25,6 @@ ________________________________________________________________________________
 6. Your completed forms and CSV reports will begin downloading now
 7. You can see a log of all the downloaded files in the terminal
 
-Here is a video guide that covers the set-up process as well: https://capture.dropbox.com/VKTEgysfDYgsU4Tn
+
 
 
